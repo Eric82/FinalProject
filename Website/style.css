@@ -1,4 +1,37 @@
 body{
-  background-color: blue;
+  background-color: gray;
   font-size: 40px;
+}
+
+section{
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    margin-left:350px;
+    margin-bottom: 5px;
+    height: 90px;
+    width: 600px;
+}
+
+section1{
+    background-color: blue;
+    color: white;
+    margin-left:350px;
+    font-size: 60px;
+    height: 500px;
+    width: 500px;
+}
+
+header{
+  background-color: blue;
+  color: white;
+  font-size: 80px;
+  font-style: italic;
+  margin-left:350px;
+  margin-bottom: 10px;
+  height: 90px;
+  width: 600px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  text-align: center;
 }
