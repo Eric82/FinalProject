@@ -1,5 +1,5 @@
 body{
-  background-color: white;
+  background-image: url("black-and-white-rain.jpg");
   font-size: 40px;
 }
 
@@ -14,18 +14,18 @@ section{
 }
 
 article{
-    background-color: grey;
+    background-color: white;
     color: black;
     margin-left:150px;
     border-bottom-left-radius:20px;
     border-bottom-right-radius:20px;
     font-size: 25px;
-    height: 500px;
+    height: 600px;
     width: 1000px;
 }
 
 header{
-  background-color: grey;
+  background-color: white;
   color: black;
   font-size: 80px;
   font-style: italic;
