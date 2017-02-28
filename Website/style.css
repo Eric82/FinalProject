@@ -4,6 +4,7 @@ body{
 }
 
 section{
+    font-family: verdana;
     color: black;
     text-align: center;
     font-size: 50px;
@@ -20,17 +21,18 @@ article{
     margin-left:150px;
     border-bottom-left-radius:20px;
     border-bottom-right-radius:20px;
-    font-size: 25px;
-    height: 800px;
+    font-size: 28px;
+    height: 600px;
     width: 1000px;
+    font-family: verdana;
 }
 
 header{
+  font-family: verdana;
   background-color: rgba(0, 0, 0, 0.5);
   background: rgba(0, 0, 0, 0.5);
   color: white;
   font-size: 80px;
-  font-style: italic;
   margin-left:150px;
   margin-bottom: 10px;
   height: 90px;
@@ -38,4 +40,16 @@ header{
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
   text-align: center;
+}
+
+.TextWrap{
+  float:left;
+  margin-left: 15px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.TextWrap1{
+  float:right;
+  margin: 10px;
 }
