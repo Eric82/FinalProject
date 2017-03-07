@@ -18,6 +18,7 @@ article{
     background-color: rgba(0, 0, 0, 0.5);
     background: rgba(0, 0, 0, 0.5);
     color: white;
+    padding: 8px;
     margin-left:150px;
     border-bottom-left-radius:20px;
     border-bottom-right-radius:20px;
@@ -28,6 +29,7 @@ article{
 }
 
 header{
+  padding: 8px;
   font-family: verdana;
   background-color: rgba(0, 0, 0, 0.5);
   background: rgba(0, 0, 0, 0.5);
@@ -35,7 +37,7 @@ header{
   font-size: 80px;
   margin-left:150px;
   margin-bottom: 10px;
-  height: 90px;
+  height: 120px;
   width: 1000px;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
@@ -52,4 +54,9 @@ header{
 .TextWrap1{
   float:right;
   margin: 10px;
+}
+
+nav{
+  font-size: 20px;
+  margin:5px ;
 }
