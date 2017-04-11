@@ -1,5 +1,5 @@
 body{
-  background-image: url("black-and-white-rain.jpg");
+  background-image: url("Night-Sky-Background.jpg");
   font-size: 40px;
 }
 
@@ -15,8 +15,7 @@ section{
 }
 
 article{
-    background-color: rgba(0, 0, 0, 0.5);
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 204, 204, 0.4);
     color: white;
     padding: 8px;
     margin-left:150px;
@@ -31,8 +30,7 @@ article{
 header{
   padding: 8px;
   font-family: verdana;
-  background-color: rgba(0, 0, 0, 0.5);
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 204, 204, 0.4);
   color: white;
   font-size: 80px;
   margin-left:150px;
