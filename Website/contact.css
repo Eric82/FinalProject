@@ -31,7 +31,7 @@ section{
     color: white;
     text-align: center;
     font-size: 15px;
-    height: 1000px;
+    height: 100px;
     width: 1000px;
     margin-top: 10px;
     margin-left: 170px;
@@ -45,7 +45,7 @@ article{
     border-bottom-left-radius:20px;
     border-bottom-right-radius:20px;
     font-size: 28px;
-    height: 600px;
+    height: 300px;
     width: 1000px;
     font-family: verdana;
 }
